@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DrinkWater623
+- 👋 Hi, I’m @DrinkWater623, but you can call me Nikki or DW
 - 👀 I’m interested in ... Minecraft Bedrock
-- 🌱 I’m currently learning ... Add-Ons
-- 💞️ I’m looking to collaborate on ... Add-Ons
+- 🌱 I’m currently learning ... Bedrock Add-Ons
+- 💞️ I’m looking to collaborate on ... OSS Wiki, Add-Ons, Regolith Filters
 - 📫 How to reach me ... Discord 
 
 <!---
