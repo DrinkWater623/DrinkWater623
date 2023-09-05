@@ -11,19 +11,19 @@ You can click the Preview link to take a look at your changes.
 
 ### Fan-Girl Links:
 - Minecraft
--- [List of Key Minecraft Bedrock Add-On Dev Discords](https://wiki.bedrock.dev/discord.html)
--- [Bedrock OSS GitHub Repo's](https://github.com/Bedrock-OSS)
--- [Regolith](https://bedrock-oss.github.io/regolith/)
--- [Jsonte (JSON Templating) Filter Quick Tutorial](https://mcdevkit.com/tutorial)
--- [Jsonte Filter Documentation](https://docs.mcdevkit.com/json-templating-engine/)
+  - [List of Key Minecraft Bedrock Add-On Dev Discords](https://wiki.bedrock.dev/discord.html)
+  - [Bedrock OSS GitHub Repo's](https://github.com/Bedrock-OSS)
+  - [Regolith](https://bedrock-oss.github.io/regolith/)
+  - [Jsonte (JSON Templating) Filter Quick Tutorial](https://mcdevkit.com/tutorial)
+  - [Jsonte Filter Documentation](https://docs.mcdevkit.com/json-templating-engine/)
 - Entertainment
-- - Favorite Books or Authors
-  - - [Anything by Jeff Wheeler](https://jeff-wheeler.com/books/)
+  -  Favorite Books or Authors
+    - [Anything by Jeff Wheeler](https://jeff-wheeler.com/books/)
     - [The Young Wizards Series by Diane Duane (Deeper & Better than Harry Potter)](https://www.dianeduane.com/novels/)
-- - Favorite All Time Shows
-  - [Original La Femme Nikita](https://www.imdb.com/title/tt0118379/)
-  - [Billions](https://www.imdb.com/title/tt4270492/?ref_=fn_al_tt_1)
-  - [Pride and Predudice](https://www.imdb.com/title/tt0112130/?ref_=fn_al_tt_2)
+  - Favorite All Time Shows
+    - [Original La Femme Nikita](https://www.imdb.com/title/tt0118379/)
+    - [Billions](https://www.imdb.com/title/tt4270492/?ref_=fn_al_tt_1)
+    - [Pride and Predudice](https://www.imdb.com/title/tt0112130/?ref_=fn_al_tt_2)
   
 ### About Me
 Gamer Tag in most places: DrinkWater623
